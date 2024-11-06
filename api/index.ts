@@ -26,6 +26,6 @@ app.get("/weather", function (req: any, res: any) {
 
 app.listen(3000, function () {
   console.log(
-    "http://127.0.0.1:3000/weather?serviceKey=내 인증키&numOfRows=10&pageNo=1&base_date=20241028&base_time=0600&nx=61&ny=125 app listening on port 3000!"
+    "http://127.0.0.1:3000/weather?serviceKey=KQb2VjrMOENzALnF%2BvrmAZXnVZzCP83tgRNk1lx5iUWyD9nvLSxM3Izr%2BSirFtYOVVwoZlLwD6japona9MPd%2Fw%3D%3D&numOfRows=10&pageNo=1&base_date=20241028&base_time=0600&nx=61&ny=125 app listening on port 3000!"
   );
 });
